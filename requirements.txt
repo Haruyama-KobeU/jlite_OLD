@@ -27,4 +27,4 @@ see
 lmdiag
 linearmodels
 linearsolve
-git+https://github.com/spring-haru/japanize-matplotlib.git@jupyterlite#egg=japanize-matplotlib
+# git+https://github.com/spring-haru/japanize-matplotlib.git@jupyterlite#egg=japanize-matplotlib
