@@ -27,3 +27,4 @@ see
 lmdiag
 linearmodels
 linearsolve
+japanize-matplotlib
