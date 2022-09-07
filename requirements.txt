@@ -21,10 +21,10 @@ plotly>=5,<6
 theme-darcula
 otter-grader
 py4macro
-py4etrics
+# py4etrics
 wooldridge
 see
-lmdiag
-linearmodels
-linearsolve
+# lmdiag
+# linearmodels
+# linearsolve
 # git+https://github.com/spring-haru/japanize-matplotlib.git@jupyterlite#egg=japanize-matplotlib
