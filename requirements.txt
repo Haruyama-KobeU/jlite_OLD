@@ -22,7 +22,7 @@ theme-darcula
 otter-grader
 py4macro
 # py4etrics
-wooldridge
+# wooldridge
 see
 # lmdiag
 # linearmodels
