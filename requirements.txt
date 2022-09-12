@@ -28,4 +28,4 @@ see
 # linearmodels
 # linearsolve
 # git+https://github.com/spring-haru/japanize-matplotlib.git@jupyterlite#egg=japanize-matplotlib
-japanize-matplotlib
+japanize-matplotlib-jlite
